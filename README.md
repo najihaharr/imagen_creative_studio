@@ -4,6 +4,11 @@ Original code cloned from: https://github.com/GoogleCloudPlatform/vertex-ai-crea
 
 This app is built with [Mesop](https://google.github.io/mesop), a Python-based UI framework that allows you to rapidly build web apps like this demo and internal apps.
 
+## Imagen x Flux Models
+
+![](./screenshots/JOJO-1.png)
+![](./screenshots/Flux-1.png)
+
 # How to run locally
 
 ## 1. Create a virtual environment
