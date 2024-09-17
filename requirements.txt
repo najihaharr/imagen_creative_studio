@@ -1,0 +1,12 @@
+mesop>=0.9.3
+Flask
+gunicorn
+Werkzeug
+dataclasses_json
+google-cloud-aiplatform
+google-cloud-logging
+python-dotenv
+google_cloud_aiplatform==1.63.0
+Pillow==10.4.0
+protobuf==5.28.1
+python-dotenv==1.0.1
