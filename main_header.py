@@ -12,7 +12,7 @@ def main_header():
     with header(max_width=None):
       with header_section():
         me.text(
-          "Image Gen App", type="headline-6", style=me.Style(margin=me.Margin(bottom=0))
+          "AI Creative Studio", type="headline-6", style=me.Style(margin=me.Margin(bottom=0))
         )
 
       with header_section():
