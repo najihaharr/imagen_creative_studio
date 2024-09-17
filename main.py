@@ -56,7 +56,7 @@ from dotenv import load_dotenv
 # from diffusers import FluxPipeline
 
 
-title = "IMAGEN CREATIVE STUDIO"
+title = "AI CREATIVE STUDIO"
 
 GENMEDIA_BUCKET = os.environ.get("GENMEDIA_BUCKET")
 PROJECT_ID = os.environ.get('PROJECT_ID')
@@ -387,7 +387,7 @@ def loop_through_images(folder_path):
         allowed_script_srcs	    = ["https://cdn.jsdelivr.net"],
         # allowed_connect_srcs	= ["https://cdn.jsdelivr.net"],
         dangerously_disable_trusted_types=True),
-    title="Imagen Creative Studio | Vertex AI",
+    title="AI Creative Studio | Vertex AI",
 )
 def app():
     
