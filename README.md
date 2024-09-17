@@ -20,7 +20,7 @@ source myvirtualenv/bin/activate
 ```
 
 ```
-cd imagen-app
+cd imagen_creative_studio
 ```
 
 ## 2. Install dependencies
